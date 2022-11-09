@@ -15,5 +15,4 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-| <img src="https://github-readme-stats.vercel.app/api?username=caique-caetano&theme=aura_dark&show_icons=true" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?username=caique-caetano&theme=aura_dark" alt="stats" /> |
-|:---:|:---:|
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=caique-caetano&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
