@@ -8,7 +8,8 @@ ___
 
 <div width= "100%" align="center">
  
-<img src="https://github-readme-stats.vercel.app/api?username=caique-caetano&show_icons=true&theme=aura_dark" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=caique-caetano&theme=aura_dark" /> |
+| <img src="https://github-readme-stats.vercel.app/api?username=caique-caetano&show_icons=true&theme=aura_dark" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=caique-caetano&show_icons=true&theme=aura_dark" /> |
+ |:---:|:---:|
  
  </div>
  
