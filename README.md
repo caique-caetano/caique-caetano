@@ -1,4 +1,4 @@
-Olá 👋 Sou <bold>Caique Caetano!</bold>
+Olá 👋 Sou <h1>Caique Caetano!</h1>
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=caique-caetano&show_icons=true&theme=aura_dark)](https://github.com/anuraghazra/github-readme-stats)
