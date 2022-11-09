@@ -15,4 +15,4 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=caique-caetano&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=caique-caetano&repo=pokedex_projeto)](https://github.com/anuraghazra/github-readme-stats)
