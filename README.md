@@ -1,8 +1,8 @@
 Olá 👋 Sou Caique Caetano! 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=caique-caetano)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=caique-caetano&show_icons=true&theme=tokyonight)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=caique-caetano&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
