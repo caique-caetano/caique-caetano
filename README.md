@@ -15,5 +15,5 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-| <img src="https://github-readme-stats.vercel.app/api?username=caique-caetano&theme=aura_dark&show_icons=true" /> | <img src="https://github-readme-streak-stats.herokuapp.com/api?username=caique-caetano&theme=aura_dark" alt="stats" /> |
+| <img src="https://github-readme-stats.vercel.app/api?username=caique-caetano&theme=aura_dark&show_icons=true" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?username=caique-caetano&theme=aura_dark" alt="stats" /> |
 |:---:|:---:|
