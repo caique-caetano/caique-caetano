@@ -4,7 +4,11 @@
 
 <div width= "100%" align="center" display="flex">
  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=caique-caetano&show_icons=true&theme=aura_dark)](https://github.com/anuraghazra/github-readme-stats)
+<div width="50%">
+ 
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=caique-caetano&show_icons=true&theme=aura_dark)](https://github.com/anuraghazra/github-readme-stats)
+ 
+ </div>
  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caique-caetano&layout=compact&show_icons=true&theme=aura_dark)](https://github.com/anuraghazra/github-readme-stats)
  
