@@ -1,6 +1,4 @@
-<h2> Olá 👋 Sou </h2> 
-
-<h1>Caique Caetano!</h1>
+# Olá 👋 Sou  Caique Caetano!
 
 <div width= "100%" align="center" display= "inline-block">
  
