@@ -1,4 +1,6 @@
-Olá 👋 Sou <h1>Caique Caetano!</h1>
+<h2> Olá 👋 Sou </h2>
+
+<h1>Caique Caetano!</h1>
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=caique-caetano&show_icons=true&theme=aura_dark)](https://github.com/anuraghazra/github-readme-stats)
@@ -15,4 +17,6 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=caique-caetano&repo=pokedex_projeto)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=caique-caetano&repo=pokedex_projeto)](https://github.com/anuraghazra/github-readme-stats) -->
+
+
