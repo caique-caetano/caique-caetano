@@ -2,7 +2,7 @@
 
 <h1>Caique Caetano!</h1>
 
-<div width= "100%" align="center" display="flex">
+<div width= "100%" align="center" display= "inline-block">
  
 <div width="50%">
  
