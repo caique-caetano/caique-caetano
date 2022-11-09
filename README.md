@@ -12,7 +12,7 @@ ___
  
 <div width="100%" align="center">
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caique-caetano&layout=compact&show_icons=true&theme=aura_dark)](https://github.com/anuraghazra/github-readme-stats)
+  <img width="70%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caique-caetano&langs_count=6&theme=aura_dark&layout=compact" />
  
 </div>
  ___
