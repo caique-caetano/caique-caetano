@@ -8,7 +8,7 @@ ___
 
 <div width= "100%" align="center">
  
-| <img src="https://github-readme-stats.vercel.app/api?username=caique-caetano&show_icons=true&theme=aura_dark" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=caique-caetano&show_icons=true&theme=aura_dark" /> |
+| <img src="https://github-readme-stats.vercel.app/api?username=caique-caetano&show_icons=true&theme=aura_dark" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=caique-caetano&show_icons=true&theme=dark" /> |
  |:---:|:---:|
  
  </div>
@@ -20,7 +20,6 @@ ___
   <img width="60%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caique-caetano&langs_count=6&theme=aura_dark&layout=compact" />
  
 </div>
- ___
 
 
 <!---
