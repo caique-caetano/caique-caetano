@@ -2,6 +2,10 @@
 
 ___
 
+Desenvolvedor Front-End. Linguagens CSS, HTML, JavaScript, SASS, ReactNative, ReactJs e Angular.
+
+___
+
 <div width= "100%" align="center">
  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=caique-caetano&show_icons=true&theme=aura_dark)](https://github.com/anuraghazra/github-readme-stats) |
