@@ -10,7 +10,11 @@
  
  </div>
  
+ <div width="50%">
+  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caique-caetano&layout=compact&show_icons=true&theme=aura_dark)](https://github.com/anuraghazra/github-readme-stats)
+ 
+ </div> 
  
  </div>
 
